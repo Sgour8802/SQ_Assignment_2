@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace SQ_Assignment_2
 {
     public class Product
@@ -34,7 +35,3 @@ namespace SQ_Assignment_2
         }
     }
 }
-
-
-
-
